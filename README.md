@@ -24,4 +24,4 @@ Once you've spent a few hours playing with Copilot and your language of choice, 
 
 - https://github.com/DagAndreas/java-fundamentals-maps-ai
 - https://github.com/DagAndreas/java-fundamentals-list-ai
-- 
+- https://github.com/DagAndreas/tetris-pygame
